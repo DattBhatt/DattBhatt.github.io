@@ -1,15 +1,15 @@
 .navbar{
     background-color: #007bff;
 }
-section{
-    height:700px;
-}
 #home{
     background-color: red;
+    height: 700px;
 }
 #about{
     background-color: green;
+    height: 700px;
 }
 #contact{
     background-color: yellow;
+    height: 700px;
 }
