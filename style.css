@@ -1,15 +1,3 @@
-.navbar{
-    background-color: #007bff;
-}
-#home{
-    background-color:red;
-    height: 700px;
-}
-#about{
-    background-color:green;
-    height: 700px;
-}
-#contact{
-    background-color:yellow;
-    height: 700px;
+iframe{
+ background-color: rgb(225,2,2);
 }
