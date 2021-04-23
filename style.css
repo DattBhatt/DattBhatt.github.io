@@ -1,3 +1,22 @@
 iframe{
  background-color: rgb(225,2,2);
 }
+h1 {
+  color: black;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+h2 {
+  color: black;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+body{
+  text-align: center;
+}
+div{
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 10;
+  padding-left: 50px;
+}
